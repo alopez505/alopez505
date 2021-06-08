@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alopez505
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Alex Lopez
+Hello! My name is Alex Lopez and I am interested in Engineering. I have a B.S. in Mechatronic Engineering and am always looking to learn more. I used my Github for school projects but now use it to work on side projects and things I am interested in.
 
-<!---
-alopez505/alopez505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🌱 I’m currently learning about machine learning.
