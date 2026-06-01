@@ -44,6 +44,8 @@ from the sensor and PLC layer up through SCADA, historians, and the cloud.
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=flat&logoColor=white)
