@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/aml505">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/alex-lopez-bwdg">
+    <img src="https://img.shields.io/badge/alex--lopez--bwdg-181717?style=flat&logo=github&logoColor=white" alt="Work GitHub"/>
+  </a>
+</p>
 </p>
 <p align="center">
   <a href="mailto:alexander.lopez@bwdesigngroup.com">
